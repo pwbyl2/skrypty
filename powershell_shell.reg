@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\PowerShell7]
+@="Open PowerShell 7 Here"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\PowerShell7\command]
+@="C:\\Program Files\\PowerShell\\7\\pwsh.exe"
